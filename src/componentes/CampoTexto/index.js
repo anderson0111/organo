@@ -1,4 +1,4 @@
-import '../CampoTexto/CampoTexto.css'
+import './CampoTexto.css';
 
 const CampoTexto = () => {
     return (
